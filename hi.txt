@@ -1,0 +1,3 @@
+public Class hi{
+	System.out.println("hihi");
+}
